@@ -1,6 +1,6 @@
 # ChainSkills Truffle Box
 
- delivered by [Santren Koding](santrenkoding.org).
+ delivered by [Santren Koding](https://santrenkoding.org/).
 
 
 ## Installation
